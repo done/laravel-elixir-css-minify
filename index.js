@@ -13,7 +13,7 @@ var _ = require('underscore');
 /**
  * Minify task
  *
- * @param {String} src
+ * @param {String or Array} src
  * @param {String} outputDir The directory to put the minfied files in. Default
  *                           is set to the same as the output folder defined in
  *                           the Elixir configuration.
