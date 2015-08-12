@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/done/laravel-elixir-css-minify/issues"
   },
-  "homepage": "https://github.com/done/laravel-elixir-css-minify#readme"
+  "homepage": "https://github.com/done/laravel-elixir-css-minify#readme",
+  "devDependencies": {
+    "gulp-minify-css": "^1.2.0",
+    "underscore": "^1.8.3"
+  }
 }
