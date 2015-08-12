@@ -1,0 +1,25 @@
+{
+  "name": "laravel-elixir-css-minify",
+  "version": "1.0.0",
+  "description": "An gulp-minify-css Elixir wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/done/laravel-elixir-css-minify.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "minify-css",
+    "gulp"
+  ],
+  "author": "Daniel Domermark <done@supr.se> (supr.se)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/done/laravel-elixir-css-minify/issues"
+  },
+  "homepage": "https://github.com/done/laravel-elixir-css-minify#readme"
+}
