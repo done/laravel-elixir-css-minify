@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-css-minify",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "An gulp-minify-css Elixir wrapper",
   "main": "index.js",
   "scripts": {
